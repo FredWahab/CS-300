@@ -1,0 +1,4 @@
+﻿  VectorSorting.cpp
+C:\Users\FWaha\Documents\CS-300\2-3Assignment_VectorSorting_FredWahab\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FWaha\Documents\CS-300\2-3Assignment_VectorSorting_FredWahab\VectorSorting.cpp(290,31): warning C4018: '<': signed/unsigned mismatch
+  2-3Assignment_VectorSorting_FredWahab.vcxproj -> C:\Users\FWaha\Documents\CS-300\2-3Assignment_VectorSorting_FredWahab\Debug\2-3Assignment_VectorSorting_FredWahab.exe
