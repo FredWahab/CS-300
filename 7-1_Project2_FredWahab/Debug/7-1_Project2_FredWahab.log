@@ -1,0 +1,7 @@
+﻿  source.cpp
+C:\Users\FWaha\Documents\CS-300\7-1_Project2_FredWahab\source.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FWaha\Documents\CS-300\7-1_Project2_FredWahab\source.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FWaha\Documents\CS-300\7-1_Project2_FredWahab\source.cpp(90,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FWaha\Documents\CS-300\7-1_Project2_FredWahab\source.cpp(101,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\FWaha\Documents\CS-300\7-1_Project2_FredWahab\source.cpp(126,21): warning C4018: '<': signed/unsigned mismatch
+  7-1_Project2_FredWahab.vcxproj -> C:\Users\FWaha\Documents\CS-300\7-1_Project2_FredWahab\Debug\7-1_Project2_FredWahab.exe
